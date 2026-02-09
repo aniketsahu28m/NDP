@@ -1,0 +1,5 @@
+www.google.com 142.250.195.36
+www.facebook.com 157.240.1.35
+www.amazon.com 205.251.242.103
+www.mit.edu 104.18.29.39
+www.manipal.edu 103.26.236.3
