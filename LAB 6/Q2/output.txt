@@ -1,0 +1,19 @@
+Enter binary data: 1101011011
+Select CRC Polynomial:
+1. CRC-12 (1100000001111)
+2. CRC-16 (11000000000000101)
+3. CRC-CCITT (10001000000100001)
+Choice: 1
+
+--- CRC Generation ---
+Generator: 1100000001111
+Checksum:  110001100100
+Sending:   1101011011110001100100
+Data transmitted successfully.
+
+Receiver listening on port 5007...
+Received Packet: 1101011011110001100100
+Using Polynomial: 1100000001111
+
+--- Receiver Result ---
+Result: Remainder is zero. Data is NOT corrupted.

@@ -1,0 +1,13 @@
+SENDER
+
+Enter binary data (e.g., 101101): 1011
+Enter parity type (0=even, 1=odd): 0
+Data with parity bit: 10111
+Data sent to receiver.
+
+Receiver
+
+
+Receiver waiting on port 5006...
+Received data: 10111
+Parity check: Data is NOT corrupt.
